@@ -7,13 +7,6 @@
   <h3 align="center">CertUs</h3>
 
   <p align="center">
-    Solución que propone el proyecto
-    <br />
-    <a href=""><strong>Explora la documentación »</strong></a>
-    <br />
-    <br />
-    <a href="">Ver demostración</a>
-    <p>
       El proyecto Certus MarketPlace (CertUs) plantea una solución 
       mediante una plataforma web hecha para el 
       Instituto de Educación Superior Certus. Esta busca dar respuesta a la falta de exposición 
@@ -25,7 +18,11 @@
       conectará directamente el talento creativo de Certus con posibles compradores, 
       impulsando el emprendimiento estudiantil y ofreciendo una vía para generar ingresos,
       todo dentro de un entorno seguro y de fácil manejo.
-    </p>
+    <br />
+    <a href=""><strong>Explora la documentación »</strong></a>
+    <br />
+    <br />
+    <a href="">Ver demostración</a>
     <a href="">Reportar bug</a>
     ·
     <a href="">Solicitar característica</a>
