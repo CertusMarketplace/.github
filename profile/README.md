@@ -22,9 +22,10 @@
     <a href=""><strong>Explora la documentación »</strong></a>
   <br />
   <br />
-  <a href="">Ver demostración</a>
-  <a href="">Reportar bug</a>
+  <a href=""><strong>Ver demostración</strong></a>
     ·
-  <a href="">Solicitar característica</a>
+  <a href=""><strong>Reportar bug</strong></a>
+    ·
+  <a href=""><strong>Solicitar característica</strong></a>
 </div>
 
